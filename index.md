@@ -121,11 +121,11 @@ Reviewed student applications for the Physiology and Biophysics Ph.D. Program an
 
 ## Publications
 
-__Angueyra JM__, Kindt KS (2018) Invited review: “Leveraging zebrafish to study retinal degenerations” *Frontiers Research Topic: Zebrafish in Development and Disease*. 6:110.  
+- __Angueyra JM__, Kindt KS (2018) Invited review: “Leveraging zebrafish to study retinal degenerations” *Frontiers Research Topic: Zebrafish in Development and Disease*. 6:110.  
 
-__Angueyra JM__, Rieke FM (*In preparation*) “Multiple time scales of adaptation allow cones to encode the inputs created by eye movements and natural scenes”  
+- __Angueyra JM__, Rieke FM (*In preparation*) “Multiple time scales of adaptation allow cones to encode the inputs created by eye movements and natural scenes”  
 
-Kiser PD, Zhang J, Sharma A, __Angueyra JM__, Kolesnikov AV, Badiee M, Tochtrop GP, Kinoshita J, Pea chey NS, Li W, Kefalov VJ, Palczewski K (2018) “Retinoid isomerase inhibitors impair but do not block mammalian cone photoreceptor function” *The Journal of General Physiology* Apr 2018, 150 (4) 571-590; DOI: 10.1085/jgp. 201711815  
+- Kiser PD, Zhang J, Sharma A, __Angueyra JM__, Kolesnikov AV, Badiee M, Tochtrop GP, Kinoshita J, Pea chey NS, Li W, Kefalov VJ, Palczewski K (2018) “Retinoid isomerase inhibitors impair but do not block mammalian cone photoreceptor function” *The Journal of General Physiology* Apr 2018, 150 (4) 571-590; DOI: 10.1085/jgp. 201711815  
 
 Wahlin KJ, Maruotti JA, Sripathi SR, Ball J, __Angueyra JM__, Kim C, Grebe R, Li W, Jones BW, Zack DJ (2017) "Photoreceptor Outer Segment-like Structures in Long-Term 3D Retinas from Human Pluripotent Stem Cells" *Scientific reports*. Apr 10;7(1):766.  
 
