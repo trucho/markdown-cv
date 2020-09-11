@@ -122,23 +122,23 @@ Reviewed student applications for the Physiology and Biophysics Ph.D. Program an
 ## Publications
 
 __Angueyra JM__, Kindt KS (2018) Invited review: “Leveraging zebrafish to study retinal degenerations” *Frontiers Research Topic: Zebrafish in Development and Disease*. 6:110.  
-  
+
 __Angueyra JM__, Rieke FM (*In preparation*) “Multiple time scales of adaptation allow cones to encode the inputs created by eye movements and natural scenes”  
-  
+
 Kiser PD, Zhang J, Sharma A, __Angueyra JM__, Kolesnikov AV, Badiee M, Tochtrop GP, Kinoshita J, Pea chey NS, Li W, Kefalov VJ, Palczewski K (2018) “Retinoid isomerase inhibitors impair but do not block mammalian cone photoreceptor function” *The Journal of General Physiology* Apr 2018, 150 (4) 571-590; DOI: 10.1085/jgp. 201711815  
-  
+
 Wahlin KJ, Maruotti JA, Sripathi SR, Ball J, __Angueyra JM__, Kim C, Grebe R, Li W, Jones BW, Zack DJ (2017) "Photoreceptor Outer Segment-like Structures in Long-Term 3D Retinas from Human Pluripotent Stem Cells" *Scientific reports*. Apr 10;7(1):766.  
-  
+
 Hass C∮, __Angueyra JM__∮, Lindbloom-Brown Z, Rieke F, Horwitz G (2015) “Chromatic detection from cone photoreceptors to V1 neurons to behavior in rhesus monkeys” *Journal of Vision*, 15(15):1 (∮ co-authors)  
-  
+
 __Angueyra JM__, Rieke FM (2013) “Origin and impact of phototransduction noise in primate cone photoreceptors” *Nature Neuroscience*, 2013 Nov 16 (11): 1692-1700  
-  
+
 __Angueyra JM__, Pulido C, Malagón G, Nasi E, Gomez MP (2012) “Melanopsin-expressing amphioxus photoreceptors transduce light via a phospholipase C signaling cascade” *PLoS One*, 2012 7(1):e29813  
-  
+
 Pulido C, Malagón G, Ferrer C, Chen JK, __Angueyra JM__, Nasi E, Gomez MP. (2012) “The light-sensitive conductance of melanopsin-expressing Joseph and Hesse cells in amphioxus” *Journal of General Physiology*, 139(1): 19 - 30  
-  
+
 Ufret-Vincenty CA, Kelin RM, Hua L, __Angueyra J__, Gordon SE (2011) “Localization of the PIP2 sensor of TRPV1 channels” *Journal of Biological Chemistry*, 286(11): 9688 - 9698  
-  
+
 Gomez MP, __Angueyra JM__, Nasi E (2009) “Light-Transduction in melanopsin-expressing photoreceptors of Amphioxus” *PNAS*, 106(22): 9081-9086.  
 
 ## Abstracts
