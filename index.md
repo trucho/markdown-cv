@@ -127,62 +127,62 @@ __Angueyra JM__, Rieke FM (*In preparation*) “Multiple time scales of adaptati
 
 Kiser PD, Zhang J, Sharma A, __Angueyra JM__, Kolesnikov AV, Badiee M, Tochtrop GP, Kinoshita J, Pea chey NS, Li W, Kefalov VJ, Palczewski K (2018) “Retinoid isomerase inhibitors impair but do not block mammalian cone photoreceptor function” *The Journal of General Physiology* Apr 2018, 150 (4) 571-590; DOI: 10.1085/jgp. 201711815<br><br>
 
-Wahlin KJ, Maruotti JA, Sripathi SR, Ball J, __Angueyra JM__, Kim C, Grebe R, Li W, Jones BW, Zack DJ (2017) "Photoreceptor Outer Segment-like Structures in Long-Term 3D Retinas from Human Pluripotent Stem Cells" *Scientific reports*. Apr 10;7(1):766.  
+Wahlin KJ, Maruotti JA, Sripathi SR, Ball J, __Angueyra JM__, Kim C, Grebe R, Li W, Jones BW, Zack DJ (2017) "Photoreceptor Outer Segment-like Structures in Long-Term 3D Retinas from Human Pluripotent Stem Cells" *Scientific reports*. Apr 10;7(1):766.<br><br>
 
-Hass C∮, __Angueyra JM__∮, Lindbloom-Brown Z, Rieke F, Horwitz G (2015) “Chromatic detection from cone photoreceptors to V1 neurons to behavior in rhesus monkeys” *Journal of Vision*, 15(15):1 (∮ co-authors)  
+Hass C∮, __Angueyra JM__∮, Lindbloom-Brown Z, Rieke F, Horwitz G (2015) “Chromatic detection from cone photoreceptors to V1 neurons to behavior in rhesus monkeys” *Journal of Vision*, 15(15):1 (∮ co-authors)<br><br>
 
-__Angueyra JM__, Rieke FM (2013) “Origin and impact of phototransduction noise in primate cone photoreceptors” *Nature Neuroscience*, 2013 Nov 16 (11): 1692-1700  
+__Angueyra JM__, Rieke FM (2013) “Origin and impact of phototransduction noise in primate cone photoreceptors” *Nature Neuroscience*, 2013 Nov 16 (11): 1692-1700<br><br>
 
-__Angueyra JM__, Pulido C, Malagón G, Nasi E, Gomez MP (2012) “Melanopsin-expressing amphioxus photoreceptors transduce light via a phospholipase C signaling cascade” *PLoS One*, 2012 7(1):e29813  
+__Angueyra JM__, Pulido C, Malagón G, Nasi E, Gomez MP (2012) “Melanopsin-expressing amphioxus photoreceptors transduce light via a phospholipase C signaling cascade” *PLoS One*, 2012 7(1):e29813<br><br>
 
-Pulido C, Malagón G, Ferrer C, Chen JK, __Angueyra JM__, Nasi E, Gomez MP. (2012) “The light-sensitive conductance of melanopsin-expressing Joseph and Hesse cells in amphioxus” *Journal of General Physiology*, 139(1): 19 - 30  
+Pulido C, Malagón G, Ferrer C, Chen JK, __Angueyra JM__, Nasi E, Gomez MP. (2012) “The light-sensitive conductance of melanopsin-expressing Joseph and Hesse cells in amphioxus” *Journal of General Physiology*, 139(1): 19 - 30<br><br>
 
-Ufret-Vincenty CA, Kelin RM, Hua L, __Angueyra J__, Gordon SE (2011) “Localization of the PIP2 sensor of TRPV1 channels” *Journal of Biological Chemistry*, 286(11): 9688 - 9698  
+Ufret-Vincenty CA, Kelin RM, Hua L, __Angueyra J__, Gordon SE (2011) “Localization of the PIP2 sensor of TRPV1 channels” *Journal of Biological Chemistry*, 286(11): 9688 - 9698<br><br>
 
-Gomez MP, __Angueyra JM__, Nasi E (2009) “Light-Transduction in melanopsin-expressing photoreceptors of Amphioxus” *PNAS*, 106(22): 9081-9086.  
+Gomez MP, __Angueyra JM__, Nasi E (2009) “Light-Transduction in melanopsin-expressing photoreceptors of Amphioxus” *PNAS*, 106(22): 9081-9086.<br><br>
 
 ## Abstracts
 
 `Sept 2019`
-__Angueyra J__, Kunze VP, Kindt KS, Li W “A screening platform in zebrafish to identify of genes involved in photoreceptor recognition and synapse formation” *European Retina Meeting*, Helsinki, Finland
+__Angueyra J__, Kunze VP, Kindt KS, Li W “A screening platform in zebrafish to identify of genes involved in photoreceptor recognition and synapse formation” *European Retina Meeting*, Helsinki, Finland<br><br>
 
 `Apr 2019`
-__Angueyra J__, Kunze VP, Kindt KS, Li W “Identification of genes involved in photoreceptor recognition and synapse formation” *Janelia Color Vision Conference*, HHMI Janelia Research Campus, VA
+__Angueyra J__, Kunze VP, Kindt KS, Li W “Identification of genes involved in photoreceptor recognition and synapse formation” *Janelia Color Vision Conference*, HHMI Janelia Research Campus, VA<br><br>
 
 `Jun 2018`
-__Angueyra J__, Kunze VP, Kindt KS, Li W “Identification of molecules involved in photoreceptor recognition and synapse formation” *FASEB Retinal Neurobiology and Visual Processing Meeting*, Olean, NY
+__Angueyra J__, Kunze VP, Kindt KS, Li W “Identification of molecules involved in photoreceptor recognition and synapse formation” *FASEB Retinal Neurobiology and Visual Processing Meeting*, Olean, NY<br><br>
                    
 `Aug 2017` 
-__Angueyra J__, Kunze VP, Li W “Identification of molecules involved in recognition between photoreceptors subtypes and their specific postsynaptic partners” *Zebrafish Development and Genetics, MBL summer course*, Woods Hole, MA
+__Angueyra J__, Kunze VP, Li W “Identification of molecules involved in recognition between photoreceptors subtypes and their specific postsynaptic partners” *Zebrafish Development and Genetics, MBL summer course*, Woods Hole, MA<br><br>
 
 `Jul 2016`
-Kunze V, __Angueyra J__, Jia L, Li W “Differential genetic profiling of S- and M-cone photoreceptors”. *FASEB Retinal Neurobiology and Visual Processing Meeting*, Keystone, CO
+Kunze V, __Angueyra J__, Jia L, Li W “Differential genetic profiling of S- and M-cone photoreceptors”. *FASEB Retinal Neurobiology and Visual Processing Meeting*, Keystone, CO<br><br>
 
 `Jun 2014`
 __Angueyra JM__, Rieke FM. “Speed of light-adaptation in primate cones determines the encoding of information during eye movements”.
-*FASEB Retinal Neurobiology and Visual Processing*, Saxtons Rivers, VT
+*FASEB Retinal Neurobiology and Visual Processing*, Saxtons Rivers, VT<br><br>
 
 `May 2013`
-__Angueyra JM__, Rieke FM. "Assymetries between ON and OFF responses in primate vision first arise in photoreceptors” *ARVO Annual Meeting*, Seattle, WA
+__Angueyra JM__, Rieke FM. "Assymetries between ON and OFF responses in primate vision first arise in photoreceptors” *ARVO Annual Meeting*, Seattle, WA<br><br>
 
 `Feb 2012`
 Eum KS, __Angueyra JM__, Kim H, Chao L, Cohen BE, Sack JT “Allosteric stabilization of fully resting voltage sensors by a tarantula toxin”
-*56th Biophysical Meeting*, San Diego, CA
+*56th Biophysical Meeting*, San Diego, CA<br><br>
 
 `Aug 2012`
 __Angueyra JM__, Rieke FM. “The absolute threshold of cone vision: cone noise and its implications”.
-*FASEB Retinal Neurobiology and Visual Processing*, Steamboat Springs, CO
+*FASEB Retinal Neurobiology and Visual Processing*, Steamboat Springs, CO<br><br>
 
 `Sept 2010`
-__Angueyra JM__, Pulido C, Malagón G, Nasi E, Gomez MP “Role of Intracellular Calcium Mobilization in Melanopsin-mediated Light Signaling in Amphioxus” *64th Annual Meeting of the Society of General Physiologists*, Marine Biological Laboratory, Woods Hole, MA
+__Angueyra JM__, Pulido C, Malagón G, Nasi E, Gomez MP “Role of Intracellular Calcium Mobilization in Melanopsin-mediated Light Signaling in Amphioxus” *64th Annual Meeting of the Society of General Physiologists*, Marine Biological Laboratory, Woods Hole, MA<br><br>
 
 `Sept 2009`
 Gomez MP, __Angueyra JM__, Nasi E "Extending the Sensitivity of Amperometric Recording by Phase-Lock Measurements”
-*63rd Annual Meeting of the Society of General Physiologists*, Marine Biological Laboratory, Woods Hole, MA
+*63rd Annual Meeting of the Society of General Physiologists*, Marine Biological Laboratory, Woods Hole, MA<br><br>
 
 `Sept 2008`
 Gomez MP, __Angueyra JM__, Nasi E "Examining the Ancient Phototransduction Mechanisms of a Primitive Chordate”.
-*62nd Annual Meeting of the Society of General Physiologist*, Marine Biological Laboratory, Woods Hole, MA
+*62nd Annual Meeting of the Society of General Physiologist*, Marine Biological Laboratory, Woods Hole, MA<br><br>
 
 `Sept 2008`
-Gomez MP, __Angueyra JM__, Nasi E “The Dopamine Transporter as a Possible Mediator of Extra-Synaptic Transmitter Release” *62nd Annual Meeting of the Society of General Physiologists*, Marine Biological Laboratory, Woods Hole, MA
+Gomez MP, __Angueyra JM__, Nasi E “The Dopamine Transporter as a Possible Mediator of Extra-Synaptic Transmitter Release” *62nd Annual Meeting of the Society of General Physiologists*, Marine Biological Laboratory, Woods Hole, MA<br><br>
