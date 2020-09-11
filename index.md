@@ -1,6 +1,6 @@
 ---
-layout: CV
-title: Angueyra
+layout: cv
+title: Isaac Newtons's CV
 ---
 # Juan Angueyra, M.D., Ph.D.
 
@@ -186,3 +186,4 @@ Gomez MP, __Angueyra JM__, Nasi E "Examining the Ancient Phototransduction Mecha
 
 `Sept 2008`
 Gomez MP, __Angueyra JM__, Nasi E “The Dopamine Transporter as a Possible Mediator of Extra-Synaptic Transmitter Release” *62nd Annual Meeting of the Society of General Physiologists*, Marine Biological Laboratory, Woods Hole, MA
+
