@@ -118,7 +118,7 @@ __Graduate Program Admissions Committee__
 Reviewed student applications for the Physiology and Biophysics Ph.D. Program and helped with selection of potential candidates
 
 ## Publications
-[https://orcid.org/0000-0002-9217-3069](https://orcid.org/0000-0002-9217-3069)
+[https://orcid.org/0000-0002-9217-3069](https://orcid.org/0000-0002-9217-3069)  
 
 `2021`  
 __Angueyra JM__, Baudin J, Schwartz GW, Rieke FM “Multiple time scales of adaptation allow cones to encode the inputs created by visual exploration of natural scenes” (*In submission*) [bioRxiv 2021.02.13.431101](https://www.biorxiv.org/content/10.1101/2021.02.13.431101v1)  
