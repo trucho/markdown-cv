@@ -21,7 +21,7 @@ Bethesda, MD (20982), USA
 
 - Functional and genetical differences between photoreceptor subtypes
 - Mechanisms underlying wiring selectivity in the outer retina
-- Neural computations and visual processing
+- Neural computations
 
 ## Education
 
@@ -32,21 +32,6 @@ __Ph.D. in Physiology and Biophysics__
 `2000 - 2006`
 __M.D. in Medicine (General practitioner)__
 - *Universidad Nacional de Colombia, Bogotá, Colombia*
-
-## Awards
-
-`2020 - 2025`
-__K99 EY 030144-01__
-- *K99/R00 Pathway to Independence Award, NEI*
-
-`2013 - 2014`
-__Computational neuroscience training grant__
-- *Department of Physiology and Biophysics, University of Washington, Seattle, WA*
-
-`2013`
-__IBRO scholarship for Neurobiology summer course__
-- *Marine Biological Laboratory, Woods Hole, MA*
-
 
 ## Research experience
 `2014 - Present`
@@ -113,6 +98,19 @@ __Teaching assistant - Human physiology (PBIO 505/506)__
 - *Department of Physiology and Biophysics, University of Washington, Seattle, WA*  
 Led weekly review sessions for approximately fifty graduate nursing and dentistry students, as well as revised and procotred midterms and finals.
 
+## Awards
+
+`2020 - Present`
+__K99 EY 030144-01__
+- *K99/R00 Pathway to Independence Award, NEI*
+
+`2013 - 2014`
+__Computational neuroscience training grant__
+- *Department of Physiology and Biophysics, University of Washington, Seattle, WA*
+
+`2013`
+__IBRO scholarship for Neurobiology summer course__
+- *Marine Biological Laboratory, Woods Hole, MA*
 
 ## Service
 
