@@ -5,7 +5,7 @@ title: Angueyra
 # Juan Angueyra, M.D., Ph.D.
 
 <div id = webaddress>
-<a href="angueyra@nih.gov">angueyra@nih.gov</a> | +1 (301) 402 - 5459  
+<a href="angueyra@nih.gov">angueyra@nih.gov</a> &| +1 (301) 402 - 5459  
 </div>
 
 
@@ -204,7 +204,6 @@ __Angueyra JM__, Pulido C, Malagón G, Nasi E, Gomez MP “Role of Intracellula
 Gomez MP, __Angueyra JM__, Nasi E "Extending the Sensitivity of Amperometric Recording by Phase-Lock Measurements”
 *63rd Annual Meeting of the Society of General Physiologists*, Marine Biological Laboratory, Woods Hole, MA
 <br>  
-
 `Sept 2008`
 Gomez MP, __Angueyra JM__, Nasi E "Examining the Ancient Phototransduction Mechanisms of a Primitive Chordate”.
 *62nd Annual Meeting of the Society of General Physiologist*, Marine Biological Laboratory, Woods Hole, MA
