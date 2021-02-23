@@ -5,7 +5,7 @@ title: Angueyra
 # Juan Angueyra, M.D., Ph.D.
 
 <div id = webaddress>
-<a href="angueyra@nih.gov">angueyra@nih.gov</a> &| +1 (301) 402 - 5459  
+<a href="angueyra@nih.gov">angueyra@nih.gov</a> &emsp;|&emsp; +1 (301) 402 - 5459  
 </div>
 
 
