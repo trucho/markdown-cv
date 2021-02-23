@@ -1,8 +1,8 @@
 ---
-layout: CV
+layout: cv
 title: Angueyra
 ---
-# Juan Angueyra, M.D., Ph.D.
+# Juan Angueyra, M.D., Ph.D. & TEST
 
 <div id = webaddress>
 <a href="angueyra@nih.gov">angueyra@nih.gov</a> | +1 (301) 402 - 5459  
