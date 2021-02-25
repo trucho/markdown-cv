@@ -121,6 +121,9 @@ Reviewed student applications for the Physiology and Biophysics Ph.D. Program an
 [https://orcid.org/0000-0002-9217-3069](https://orcid.org/0000-0002-9217-3069)  
 <br>  
 `2021`
+__Angueyra JM__, Kunze VP, Kindt KS, Li W “A deep transcriptomic analysis of photoreceptors in zebrafish reveals _tbx2_ as a key regulator of photoreceptor fate” (*In preparation*)
+<br>  
+`2021`
 __Angueyra JM__, Baudin J, Schwartz GW, Rieke FM “Multiple time scales of adaptation allow cones to encode the inputs created by visual exploration of natural scenes” (*In submission*) [bioRxiv 2021.02.13.431101](https://www.biorxiv.org/content/10.1101/2021.02.13.431101v1)
 <br>  
 `2020`
@@ -164,49 +167,58 @@ Gomez MP, __Angueyra JM__, Nasi E (2009) “Light-Transduction in melanopsin-exp
 “The transcription factor tbx2 is a key regulator of photoreceptor fate” *OPL virtual meeting*
 <br>  
 `Feb 2020`
-“Genes involved in photoreceptor recognition and synapse formation” *Behavior, Ecology, Evolution and Systematics Seminar*, University of Maryland, MD
+“Genes involved in photoreceptor recognition and synapse formation” *Behavior, Ecology, Evolution and Systematics Seminar*, University of Maryland, MD, U.S.A
+<br>  
+`Oct 2019`
+“A reverse genetic screen of potential targets mediating photoreceptor wiring” *Mid-Atlantic Regional Zebrafish Meeting*, National Institutes of Health, MD, U.S.A
+<br>  
+`Nov 2019`
+“Identification of genes involved in photoreceptor recognition and synapse formation” *Focus of Fellows*, National Eye Institute, MD, U.S.A
+<br>  
+`May 2013`
+__Angueyra JM__, Rieke FM. "Assymetries between ON and OFF responses in primate vision first arise in photoreceptors” *ARVO Annual Meeting*, Seattle, WA, U.S.A
 
 ## Abstracts and Posters
 `Sept 2019`
 __Angueyra J__, Kunze VP, Kindt KS, Li W “A screening platform in zebrafish to identify of genes involved in photoreceptor recognition and synapse formation” *European Retina Meeting*, Helsinki, Finland
 <br>  
 `Apr 2019`
-__Angueyra J__, Kunze VP, Kindt KS, Li W “Identification of genes involved in photoreceptor recognition and synapse formation” *Janelia Color Vision Conference*, HHMI Janelia Research Campus, VA
+__Angueyra J__, Kunze VP, Kindt KS, Li W “Identification of genes involved in photoreceptor recognition and synapse formation” *Janelia Color Vision Conference*, HHMI Janelia Research Campus, VA, U.S.A
+<br>  
+`Oct 2018`
+__Angueyra J__, Kunze VP, Kindt KS, Li W “Identification of genes involved in photoreceptor recognition and synapse formation” *5<sup>th</sup> Imaging, Structure and Function in the Zebrafish Brain Conference*, Brighton, U.K.
 <br>  
 `Jun 2018`
-__Angueyra J__, Kunze VP, Kindt KS, Li W “Identification of molecules involved in photoreceptor recognition and synapse formation” *FASEB Retinal Neurobiology and Visual Processing Meeting*, Olean, NY
+__Angueyra J__, Kunze VP, Kindt KS, Li W “Identification of molecules involved in photoreceptor recognition and synapse formation” *FASEB Retinal Neurobiology and Visual Processing Meeting*, Olean, NY, U.S.A
 <br>  
 `Aug 2017` 
-__Angueyra J__, Kunze VP, Li W “Identification of molecules involved in recognition between photoreceptors subtypes and their specific postsynaptic partners” *Zebrafish Development and Genetics, MBL summer course*, Woods Hole, MA
+__Angueyra J__, Kunze VP, Li W “Identification of molecules involved in recognition between photoreceptors subtypes and their specific postsynaptic partners” *Zebrafish Development and Genetics, MBL summer course*, Woods Hole, MA, U.S.A
 <br>  
 `Jul 2016`
-Kunze V, __Angueyra J__, Jia L, Li W “Differential genetic profiling of S- and M-cone photoreceptors”. *FASEB Retinal Neurobiology and Visual Processing Meeting*, Keystone, CO
+Kunze V, __Angueyra J__, Jia L, Li W “Differential genetic profiling of S- and M-cone photoreceptors”. *FASEB Retinal Neurobiology and Visual Processing Meeting*, Keystone, CO, U.S.A
 <br>  
 `Jun 2014`
 __Angueyra JM__, Rieke FM. “Speed of light-adaptation in primate cones determines the encoding of information during eye movements”.
-*FASEB Retinal Neurobiology and Visual Processing*, Saxtons Rivers, VT
-<br>  
-`May 2013`
-__Angueyra JM__, Rieke FM. "Assymetries between ON and OFF responses in primate vision first arise in photoreceptors” *ARVO Annual Meeting*, Seattle, WA
+*FASEB Retinal Neurobiology and Visual Processing*, Saxtons Rivers, VT, U.S.A
 <br>  
 `Feb 2012`
 Eum KS, __Angueyra JM__, Kim H, Chao L, Cohen BE, Sack JT “Allosteric stabilization of fully resting voltage sensors by a tarantula toxin”
-*56th Biophysical Meeting*, San Diego, CA
+*56th Biophysical Meeting*, San Diego, CA, U.S.A
 <br>  
 `Aug 2012`
 __Angueyra JM__, Rieke FM. “The absolute threshold of cone vision: cone noise and its implications”.
-*FASEB Retinal Neurobiology and Visual Processing*, Steamboat Springs, CO
+*FASEB Retinal Neurobiology and Visual Processing*, Steamboat Springs, CO, U.S.A
 <br>  
 `Sept 2010`
-__Angueyra JM__, Pulido C, Malagón G, Nasi E, Gomez MP “Role of Intracellular Calcium Mobilization in Melanopsin-mediated Light Signaling in Amphioxus” *64th Annual Meeting of the Society of General Physiologists*, Marine Biological Laboratory, Woods Hole, MA
+__Angueyra JM__, Pulido C, Malagón G, Nasi E, Gomez MP “Role of Intracellular Calcium Mobilization in Melanopsin-mediated Light Signaling in Amphioxus” *64th Annual Meeting of the Society of General Physiologists*, Marine Biological Laboratory, Woods Hole, MA, U.S.A
 <br>  
 `Sept 2009`
 Gomez MP, __Angueyra JM__, Nasi E "Extending the Sensitivity of Amperometric Recording by Phase-Lock Measurements”
-*63rd Annual Meeting of the Society of General Physiologists*, Marine Biological Laboratory, Woods Hole, MA
+*63rd Annual Meeting of the Society of General Physiologists*, Marine Biological Laboratory, Woods Hole, MA, U.S.A
 <br>  
 `Sept 2008`
 Gomez MP, __Angueyra JM__, Nasi E "Examining the Ancient Phototransduction Mechanisms of a Primitive Chordate”.
-*62nd Annual Meeting of the Society of General Physiologist*, Marine Biological Laboratory, Woods Hole, MA
+*62nd Annual Meeting of the Society of General Physiologist*, Marine Biological Laboratory, Woods Hole, MA, U.S.A
 <br>  
 `Sept 2008`
-Gomez MP, __Angueyra JM__, Nasi E “The Dopamine Transporter as a Possible Mediator of Extra-Synaptic Transmitter Release” *62nd Annual Meeting of the Society of General Physiologists*, Marine Biological Laboratory, Woods Hole, MA
+Gomez MP, __Angueyra JM__, Nasi E “The Dopamine Transporter as a Possible Mediator of Extra-Synaptic Transmitter Release” *62nd Annual Meeting of the Society of General Physiologists*, Marine Biological Laboratory, Woods Hole, MA, U.S.A
