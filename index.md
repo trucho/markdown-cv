@@ -45,27 +45,27 @@ __Computational neuroscience training grant__
 ## Research experience
 `2014 - Present`
 __Postdoctoral Fellow - Unit of Retinal Neurohysiology (Dr. Wei Li)__
-- *National Eye Institute, National Institutes of Health, Bethesda, MD, USA*  
+- *National Eye Institute, National Institutes of Health, Bethesda, MD, U.S.A*  
 Identification of transcription factors that determine photoreceptor identity
 
 `2009 - 2014`
 __Graduate Student - Deparment of Physiology and Biophysics (Dr. Fred Rieke)__
-- *University of Washington, Seattle, WA*  
+- *University of Washington, Seattle, WA, U.S.A*  
 Investigated how particular aspects of phototransduction are quantitatively set in primate cone photoreceptors, and how they affect the computations performed by downstream circuits, leading to limits in our ability to detect stimuli, colors and edges.
 
 `2008 (Jun - Sept)`
 __Research fellow - Laboratory of Dr. Enrico Nasi and Dr, Maria Gómez__
-- *Marine Biological Laboratory, Woods Hole, MA*  
+- *Marine Biological Laboratory, Woods Hole, MA, U.S.A*  
 Electrophysiological characterization of amphioxus melanopsin-expressing photoreceptors including light response properties, phototransduction scheme and spectral sensitivity.
 
 `2007 (May - Aug)`
 __Research fellow - Laboratory of Dr. Enrico Nasi and Dr, Maria Gómez__
-- *Marine Biological Laboratory, Woods Hole, MA*  
+- *Marine Biological Laboratory, Woods Hole, MA, U.S.A*  
 Development of genetic knock down in photoreceptors from scallop (Pecten irradians) through electroporation of short interference RNA
 
 `2006 (Aug - Dec)`
 __Research fellow - Laboratory of Dr. Enrico Nasi and Dr, Maria Gómez__
-- *Marine Biological Laboratory, Woods Hole, MA*  
+- *Marine Biological Laboratory, Woods Hole, MA, U.S.A*  
 Tested the possibility of physiological reversal of the dopamine transporter for transmitter release in rat midbrain neurons.
 Developed a novel technique to improve the sensitivity of amperometric detection through phase-locked detection
 
