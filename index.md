@@ -185,7 +185,7 @@ __Angueyra JM__, Kindt KS Invited review: “Leveraging zebrafish to study retin
 “Identification of genes involved in photoreceptor recognition and synapse formation” *Focus of Fellows*, National Eye Institute, MD, U.S.A
 <br>  
 `May 2013`
-__Angueyra JM__, Rieke FM. "Assymetries between ON and OFF responses in primate vision first arise in photoreceptors” *ARVO Annual Meeting*, Seattle, WA, U.S.A
+"Assymetries between ON and OFF responses in primate vision first arise in photoreceptors” *ARVO Annual Meeting*, Seattle, WA, U.S.A
 
 ## Abstracts and posters
 `Sept 2019`
