@@ -14,7 +14,7 @@ title: Angueyra
 __Research Fellow__, Unit of Retinal Neurohysiology  
 *National Eye Institute, National Institutes of Health*  
 35 Convent Drive, 35A 3F-242D  
-Bethesda, MD (20982), USA
+Bethesda, MD (20982), U.S.A.
 
 
 ## Research interests
@@ -26,24 +26,20 @@ Bethesda, MD (20982), USA
 ## Education
 `2008 - 2014`
 __Ph.D. in Physiology and Biophysics__
-- *University of Washington, Seattle, WA, USA*
+- *University of Washington, Seattle, WA, U.S.A*
 
 `2000 - 2006`
 __M.D. in Medicine (General practitioner)__
 - *Universidad Nacional de Colombia, Bogotá, Colombia*
 
-## Awards
+## Funding
 `2020 - 2025`
 __K99 EY 030144-01__
 - *K99/R00 Pathway to Independence Award, NEI*
 
 `2013 - 2014`
 __Computational neuroscience training grant__
-- *Department of Physiology and Biophysics, University of Washington, Seattle, WA*
-
-`2013`
-__IBRO scholarship for Neurobiology summer course__
-- *Marine Biological Laboratory, Woods Hole, MA*
+- *Department of Physiology and Biophysics, University of Washington, Seattle, WA, U.S.A*
 
 
 ## Research experience
@@ -87,37 +83,49 @@ Clinical internship in a rural hospital with hands-on experience on patient care
 ## Teaching experience
 `2017`
 __Faculty - Citizen Science__
-- *Bard College, Annandale-on-Hudson, NY*  
+- *Bard College, Annandale-on-Hudson, NY, U.S.A*  
 Developed curriculum for and taught an intensive 3-week course on science and promotion of science literacy, using mixed methods of active learning and student engagement, through a lens of diversity and inclusion
 
 `2016`
 __Faculty - Foundations of cellular neuroscience__
-- *FAES, National Institutes of Health, Bethesda, MD*  
+- *FAES, National Institutes of Health, Bethesda, MD, U.S.A*  
 Taught the “Ion channels” module of a graduate-level course for post-baccalaureates, postdoctoral fellows and NIH staff, which included interactive lectures, student presentations and discussion of original research articles.
 
 `2015`
 __Faculty - Neurobiology summer course__
-- *Marine Biological Laboratory, Woods Hole, MA*  
+- *Marine Biological Laboratory, Woods Hole, MA, U.S.A*  
 Partnered with Dr. Jon Sack to teach and train students on the theoretical principles of electrophysiology and the practical aspects of single-channel recordings, leading to the development of a short research project.
 
 `2011`
 __Research and teaching assistant - Neurobiology summer course__
-- *Marine Biological Laboratory, Woods Hole, MA*  
+- *Marine Biological Laboratory, Woods Hole, MA, U.S.A*  
 Partnered with Dr. Jon Sack to teach and train students on the theoretical principles of electrophysiology and the practical aspects of single-channel recordings, leading to the development of a short research project.
 
 `2009 - 2010`
 __Teaching assistant - Human physiology (PBIO 505/506)__
-- *Department of Physiology and Biophysics, University of Washington, Seattle, WA*  
+- *Department of Physiology and Biophysics, University of Washington, Seattle, WA, U.S.A*  
 Led weekly review sessions for approximately fifty graduate nursing and dentistry students, as well as revised and procotred midterms and finals.
 
+## Awards
+`2020`
+__NEI Director's Award__
+- *National Eye Institute, Bethesda, MD, U.S.A*
+
+`2019`
+__FARE Award__
+- *National Institutes of Health, Bethesda, MD, U.S.A*
+
+`2013`
+__IBRO scholarship for Neurobiology summer course__
+- *Marine Biological Laboratory, Woods Hole, MA, U.S.A*
 
 ## Service
 `2010`
 __Graduate Program Admissions Committee__
-- *Department of Physiology and Biophysics, University of Washington, Seattle, WA*  
+- *Department of Physiology and Biophysics, University of Washington, Seattle, WA, U.S.A*  
 Reviewed student applications for the Physiology and Biophysics Ph.D. Program and helped with selection of potential candidates
 
-## Publications
+## Publications (peer-reviewed)
 [https://orcid.org/0000-0002-9217-3069](https://orcid.org/0000-0002-9217-3069)  
 <br>  
 `2021`
@@ -126,17 +134,11 @@ __Angueyra JM__, Kunze VP, Kindt KS, Li W “A deep transcriptomic analysis of p
 `2021`
 __Angueyra JM__, Baudin J, Schwartz GW, Rieke FM “Multiple time scales of adaptation allow cones to encode the inputs created by visual exploration of natural scenes” (*In submission*) [bioRxiv 2021.02.13.431101](https://www.biorxiv.org/content/10.1101/2021.02.13.431101v1)
 <br>  
-`2020`
-__Angueyra JM__, Li W Invited book chapter: "Subcortical color pathways in mammals" in *The Senses: A Comprehensive Reference*. Elsevier, 2nd Edition, 2020 (1):508-523
-<br>  
 `2019`
 Baudin J, __Angueyra JM__, Sinha R, Rieke FM “S-cone photoreceptors in the primate retina are functionally distinct from L and M cones” *Elife* 2019 Jan 23;8:e39166
 <br>  
 `2019`
 Tilley DC, __Angueyra JM__, Eum KS, Kim H, Chao LH, Peng AW, Sack JT “The tarantula toxin *GxTx* detains K<sup>+</sup> channel gating charges in their resting conformation” *The Journal of General Physiology* 2019 Mar 4;151(3):292-315.
-<br>  
-`2018`
-__Angueyra JM__, Kindt KS Invited review: “Leveraging zebrafish to study retinal degenerations” *Frontiers Research Topic: Zebrafish in Development and Disease*. 2018, 6:110
 <br>  
 `2018`
 Kiser PD, Zhang J, Sharma A, __Angueyra JM__, Kolesnikov AV, Badiee M, Tochtrop GP, Kinoshita J, Pea chey NS, Li W, Kefalov VJ, Palczewski K “Retinoid isomerase inhibitors impair but do not block mammalian cone photoreceptor function” *The Journal of General Physiology* 2018 Apr 2, 150 (4) 571-590.
@@ -162,6 +164,13 @@ Ufret-Vincenty CA, Kelin RM, Hua L, __Angueyra J__, Gordon SE “Localization of
 `2010`
 Gomez MP, __Angueyra JM__, Nasi E (2009) “Light-Transduction in melanopsin-expressing photoreceptors of Amphioxus” *PNAS*, 106(22): 9081-9086
   
+## Reviews & books
+`2020`
+__Angueyra JM__, Li W Invited book chapter: "Subcortical color pathways in mammals" in *The Senses: A Comprehensive Reference*. Elsevier, 2nd Edition, 2020 (1):508-523
+<br>  
+`2018`
+__Angueyra JM__, Kindt KS Invited review: “Leveraging zebrafish to study retinal degenerations” *Frontiers Research Topic: Zebrafish in Development and Disease*. 2018, 6:110
+
 ## Invited talks
 `Jan 2021`
 “The transcription factor tbx2 is a key regulator of photoreceptor fate” *OPL virtual meeting*
@@ -178,7 +187,7 @@ Gomez MP, __Angueyra JM__, Nasi E (2009) “Light-Transduction in melanopsin-exp
 `May 2013`
 __Angueyra JM__, Rieke FM. "Assymetries between ON and OFF responses in primate vision first arise in photoreceptors” *ARVO Annual Meeting*, Seattle, WA, U.S.A
 
-## Abstracts and Posters
+## Abstracts and posters
 `Sept 2019`
 __Angueyra J__, Kunze VP, Kindt KS, Li W “A screening platform in zebrafish to identify of genes involved in photoreceptor recognition and synapse formation” *European Retina Meeting*, Helsinki, Finland
 <br>  
