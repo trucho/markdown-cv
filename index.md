@@ -124,7 +124,7 @@ __IBRO scholarship for Neurobiology summer course__
 __Graduate Program Admissions Committee__
 - *Department of Physiology and Biophysics, University of Washington, Seattle, WA, U.S.A*  
 Reviewed student applications for the Physiology and Biophysics Ph.D. Program and helped with selection of potential candidates
-
+  
 ## Publications (peer-reviewed)
 [https://orcid.org/0000-0002-9217-3069](https://orcid.org/0000-0002-9217-3069)  
 <br>  
